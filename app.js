@@ -4,3 +4,6 @@ const isLogin = (userName) => {
   }
   return false;
 };
+const test = () => {
+  return false;
+};
