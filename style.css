@@ -3,7 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-form{
-    display : flex;
-    anign-items: center;
+
+form {
+    display: flex;
+    align-items: center;
 }
